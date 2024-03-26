@@ -1,3 +1,7 @@
+<div align="center">
+  <img align="center" alt="Icarus-HTML" height="257px" width="100%" src="https://github.com/IcaroMachadoCarvalho/IcaroMachadoCarvalho/assets/133804302/aa8d5649-afd4-4852-b102-dfc1fcd3d272">
+</div>
+
 # Olá! Eu sou o Ícaro👋
 🔭  Atualmente estou trabalhando com atendimento ao público<br>
 🤝 Estou a procura de oportunidades na área de desenvolvimento web<br>
