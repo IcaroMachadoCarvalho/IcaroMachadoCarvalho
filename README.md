@@ -3,9 +3,9 @@
 </div>
 
 # Olá! Eu sou o Ícaro👋
-🔭  Atualmente estou trabalhando com atendimento ao público<br>
+🔭  Atualmente estou trabalhando em um estágio de atendimento ao público no INSS<br>
 🤝 Estou a procura de oportunidades na área de desenvolvimento web<br>
-🌱  Estou estudando HTML, CSS e JS
+🌱  Estou estudando no momento as seguintes tecnologias: HTML, CSS e JS
 
 # 💻 Tecnologias que uso no momento:
 <div style="display:inline_block;">
@@ -23,8 +23,10 @@
 
 ## 🌐 Redes sociais:
 <div>
+  <a href="linkedin.com/in/ícaromachadodecarvalho" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 </div>
 
