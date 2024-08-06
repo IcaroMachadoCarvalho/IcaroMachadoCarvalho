@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="center" alt="Icarus-HTML" height="257px" width="100%" src="https://github.com/IcaroMachadoCarvalho/IcaroMachadoCarvalho/assets/133804302/aa8d5649-afd4-4852-b102-dfc1fcd3d272">
+  <img align="center" alt="Icarus-HTML" height="257px" width="100%" src="https://github.com/user-attachments/assets/463f5a94-ac04-4e50-9946-c4f207b39f21">
 </div>
 
 # Olá! Eu sou o Ícaro👋
@@ -19,8 +19,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=IcaroMachadoCarvalho&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroMachadoCarvalho&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 ## 🌐 Redes sociais:
 <div>
   <a href="linkedin.com/in/ícaromachadodecarvalho" target="_blank">
@@ -29,7 +27,6 @@
   <a href="mailto:icarocarvalho028@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 </div>
 
 ### Conhecimento traz força
