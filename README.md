@@ -5,7 +5,7 @@
 # Olá! Eu sou o Ícaro👋
 🔭  Atualmente estou trabalhando em um estágio de atendimento ao público no INSS<br>
 🤝 Estou a procura de oportunidades na área de desenvolvimento web<br>
-🌱  Estou estudando no momento as seguintes tecnologias: ReactJS
+🌱  Estou estudando no momento as seguintes tecnologias: ReactJS e Sass CSS
 
 # 💻 Tecnologias que uso no momento:
 <div style="display:inline_block;">
@@ -30,7 +30,7 @@
   </a>
 </div>
 
-### Conhecimento traz força
+### Sabedoria para saber viver, coragem para poder seguir e motivos para poder sorrir.
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
