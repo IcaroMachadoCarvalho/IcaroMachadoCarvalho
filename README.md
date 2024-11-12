@@ -3,7 +3,7 @@
 </div>
 
 # Olá! Eu sou o Ícaro👋
-🔭  Atualmente estou trabalhando em um estágio de atendimento ao público no INSS<br>
+🔭  Atualmente estou trabalhando como Freelancer Full-stack<br>
 🤝 Estou a procura de oportunidades na área de desenvolvimento web<br>
 🌱  Estou estudando no momento as seguintes tecnologias: ReactJS e Sass CSS
 
@@ -12,12 +12,14 @@
   <img align="center" alt="Icarus-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Icarus-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Icarus-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Icarus-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" /> 
+  <img align="center" alt="Icarus-React" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img align="center" alt="Icarus-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg">
   <img align="center" alt="Icarus-GitHub" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /> 
 </div> <br>
 
 # 📊 Meus status no Github:
-![](https://github-readme-stats.vercel.app/api?username=IcaroMachadoCarvalho&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=IcaroMachadoCarvalho&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroMachadoCarvalho&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🌐 Redes sociais:
