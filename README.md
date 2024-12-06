@@ -19,11 +19,14 @@
 </div> <br>
 
 # 📊 Meus status no Github:
-![](https://github-readme-stats.vercel.app/api?username=IcaroMachadoCarvalho&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroMachadoCarvalho&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IcaroMachadoCarvalho&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="180px" alt="Github status">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroMachadoCarvalho&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180px" alt="Github status">
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=IcaroMachadoCarvalho&theme=dark&hide_border=false" height="180px" alt="Github Stats"/> 
+</div>
 
-## 🌐 Redes sociais:
-<div>
+# 🌐 Redes sociais:
+<div align="left">
   <a href="linkedin.com/in/ícaromachadodecarvalho" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
