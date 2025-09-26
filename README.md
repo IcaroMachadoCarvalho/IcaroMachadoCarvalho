@@ -6,13 +6,12 @@
 
 # 👋 Olá! Eu sou o Ícaro
 👩🏻‍💻  Desenvolvedor Full-stack<br>
-🎓  Estudante de Análise e Desenvolvimento de Sistemas na Unicid Universidade Cidade de São Paulo <br>
-💭  Estou estudando no momento as seguintes tecnologias: Angular e Tailwind CSS
-
+🎓  Graduado em Análise e Desenvolvimento de Sistemas na Unicid Universidade Cidade de São Paulo <br>
+💭  Estou estudando no momento as seguintes tecnologias: Nodejs, Express e MongoDB
 # 💻 Tecnologias:
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,sass,tailwind,angular,git,github" />
+    <img src="https://skillicons.dev/icons?i=mongodb,nodejs,angular,ts,tailwind,sass,react,github,git,js,css,html" />
   </a>
 </p>
 <!--
@@ -28,21 +27,26 @@
 -->
 
 # 📊 Meus status no Github:
-<div align="start">
-  <img src="https://github-readme-stats.vercel.app/api?username=IcaroMachadoCarvalho&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="180px" alt="Github status">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroMachadoCarvalho&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180px" alt="Github status">
+<div style="display: flex; align-items: stretch;">
+  <img style="height: 180px;" src="https://github-readme-stats.vercel.app/api?username=IcaroMachadoCarvalho&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Github status">
+  <img style="height: 180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroMachadoCarvalho&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Github status">
 </div>
 
   # 🌐 Redes sociais:
-  <a href="https://br.linkedin.com/in/%C3%ADcaromachadodecarvalho/" target="_blank">LinkedIn</a>
+  <a href="https://br.linkedin.com/in/%C3%ADcaromachadodecarvalho/" target="_blank" style="text-decoration: none;">
+      <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+  </a>
+  <a href="mailto:icarocarvalho028@gmail.com" target="_blank" style="text-decoration: none;">
+     <img height="30" width="auto" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000">
+  </a>
   <br>
   
 <!-- 
   <div align="left">
-    <a href="linkedin.com/in/ícaromachadodecarvalho" target="_blank">
+    <a href="linkedin.com/in/ícaromachadodecarvalho" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
-    <a href="mailto:icarocarvalho028@gmail.com" target="_blank">
+    <a href="mailto:icarocarvalho028@gmail.com" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
 </div>
